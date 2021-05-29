@@ -1,0 +1,2 @@
+# GIT_IDEA_TEST
+测试IDEA的GIT
